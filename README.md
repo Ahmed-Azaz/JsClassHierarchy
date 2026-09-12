@@ -24,7 +24,5 @@ Each vehicle is defined as a constructor function with properties added via `def
 `toString()` and `valueOf()` are overridden at each level so you can inspect objects and do arithmetic like `car + bike` (which adds their respective values).
 
 ## Running
-Open taskts2.html in a browser and check the console for output.
-## Running
 
 Open `taskts2.html` in a browser and check the console for output.
