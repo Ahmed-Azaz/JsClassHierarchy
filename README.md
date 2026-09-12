@@ -26,3 +26,5 @@ Each vehicle is defined as a constructor function with properties added via `def
 ## Running
 
 Open `taskts2.html` in a browser and check the console for output.
+
+<img width="1913" height="1857" alt="Vehicle-Hierarchy-Graph-09-12-2026_03_35_PM" src="https://github.com/user-attachments/assets/b648582d-9d61-4d1d-8629-96628c5ee125" />
